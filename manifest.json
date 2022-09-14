@@ -1,0 +1,39 @@
+{
+  "name": "Jadwal Praktik CHP",
+  "short_name": "CH_Palembang",
+  "scope": "https://chrplg.blogspot.com/",
+  "start_url": "https://chrplg.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Jadwal Praktik Charitas Hospital Palembang",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEPWFp2aEue2IVE4wF40FKBEJkQ7ck5wcyB8O5QWa4IWdHbwqtT55KEsJHGce6kBR1Lc22xF41T7CN5ABG98928u4whykm5UtHJ_1o1IaeqpZBnVLiu4CfFZ6Qp0HaEdYVvl5pwzSzm1VT8R-VVoekBxM2pFdUnTzA5p_7j3w8UF2-MxlTSFpE8z2YVg/s48/charitaslogo.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEPWFp2aEue2IVE4wF40FKBEJkQ7ck5wcyB8O5QWa4IWdHbwqtT55KEsJHGce6kBR1Lc22xF41T7CN5ABG98928u4whykm5UtHJ_1o1IaeqpZBnVLiu4CfFZ6Qp0HaEdYVvl5pwzSzm1VT8R-VVoekBxM2pFdUnTzA5p_7j3w8UF2-MxlTSFpE8z2YVg/s72/charitaslogo.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEPWFp2aEue2IVE4wF40FKBEJkQ7ck5wcyB8O5QWa4IWdHbwqtT55KEsJHGce6kBR1Lc22xF41T7CN5ABG98928u4whykm5UtHJ_1o1IaeqpZBnVLiu4CfFZ6Qp0HaEdYVvl5pwzSzm1VT8R-VVoekBxM2pFdUnTzA5p_7j3w8UF2-MxlTSFpE8z2YVg/s96/charitaslogo.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEPWFp2aEue2IVE4wF40FKBEJkQ7ck5wcyB8O5QWa4IWdHbwqtT55KEsJHGce6kBR1Lc22xF41T7CN5ABG98928u4whykm5UtHJ_1o1IaeqpZBnVLiu4CfFZ6Qp0HaEdYVvl5pwzSzm1VT8R-VVoekBxM2pFdUnTzA5p_7j3w8UF2-MxlTSFpE8z2YVg/s144/charitaslogo.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEPWFp2aEue2IVE4wF40FKBEJkQ7ck5wcyB8O5QWa4IWdHbwqtT55KEsJHGce6kBR1Lc22xF41T7CN5ABG98928u4whykm5UtHJ_1o1IaeqpZBnVLiu4CfFZ6Qp0HaEdYVvl5pwzSzm1VT8R-VVoekBxM2pFdUnTzA5p_7j3w8UF2-MxlTSFpE8z2YVg/s168/charitaslogo.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEPWFp2aEue2IVE4wF40FKBEJkQ7ck5wcyB8O5QWa4IWdHbwqtT55KEsJHGce6kBR1Lc22xF41T7CN5ABG98928u4whykm5UtHJ_1o1IaeqpZBnVLiu4CfFZ6Qp0HaEdYVvl5pwzSzm1VT8R-VVoekBxM2pFdUnTzA5p_7j3w8UF2-MxlTSFpE8z2YVg/s192/charitaslogo.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEPWFp2aEue2IVE4wF40FKBEJkQ7ck5wcyB8O5QWa4IWdHbwqtT55KEsJHGce6kBR1Lc22xF41T7CN5ABG98928u4whykm5UtHJ_1o1IaeqpZBnVLiu4CfFZ6Qp0HaEdYVvl5pwzSzm1VT8R-VVoekBxM2pFdUnTzA5p_7j3w8UF2-MxlTSFpE8z2YVg/s512/charitaslogo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
